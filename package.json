@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "testcafe chrome:headless tests/**/*"
+    "test": "testcafe firefox:headless tests/**/*"
   },  
   "devDependencies": {
     "testcafe": "^1.17.1",
